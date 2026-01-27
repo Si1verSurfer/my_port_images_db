@@ -1,0 +1,107 @@
+{
+  "personal_info": {
+    "name": "BASHAR RIZK IBRAHIM",
+    "title": "SOFTWARE ENGINEER",
+    "summary": "Software Engineer and AI Specialist with a strong foundation in Flutter, Node.js, and Go. Programming since age 15, I have delivered 8+ cross-platform mobile applications and a specialized AI system for medical diagnostics. Expert in building scalable, user-centric architectures using Clean Architecture, GetX, and BLOC.",
+    "email": "bashar@example.com",
+    "phone": "+1234567890",
+    "location": "Your Location",
+    "website": "https://your-portfolio.com",
+    "linkedin": "https://linkedin.com/in/yourprofile",
+    "github": "https://github.com/Si1verSurfer"
+  },
+  
+  "technical_skills": {
+    "languages": ["Dart", "Python", "Node.js", "Go (Golang)", "C#", "Java"],
+    "mobile_frontend": ["Flutter (GetX, BLOC, Cubit)", "Native Android (Java)", "ReactJS"],
+    "backend_apis": ["Flask", "Node.js", "Go", "RESTful APIs", "Firebase", "Odoo Integration"],
+    "ai_ml": ["PyTorch", "AI Model Deployment (Colon Cancer Classification)"],
+    "tools_platforms": ["Docker", "Git", "Postman", "Firebase", "Real-time Systems", "Flame Engine"]
+  },
+  
+  "experience": [
+    {
+      "id": 1,
+      "company": "Freelance / Various Clients",
+      "position": "Full Stack Software Engineer",
+      "period": "2020 - Present",
+      "description": "Developed and delivered 8+ cross-platform mobile applications using Flutter, integrated various backend systems, and implemented AI solutions for clients across different industries.",
+      "technologies": ["Flutter", "Node.js", "Go", "Firebase", "ReactJS"]
+    }
+  ],
+  
+  "education": [
+    {
+      "id": 1,
+      "institution": "Your University",
+      "degree": "Bachelor of Computer Science / Software Engineering",
+      "period": "Year - Year",
+      "description": "Specialized in software development and artificial intelligence."
+    }
+  ],
+  
+  "certifications": [
+    {
+      "id": 1,
+      "name": "Flutter Development Certification",
+      "issuer": "Issuing Organization",
+      "date": "2023",
+      "url": ""
+    },
+    {
+      "id": 2,
+      "name": "AI/ML Specialization",
+      "issuer": "Issuing Organization",
+      "date": "2024",
+      "url": ""
+    }
+  ],
+  
+  "achievements": [
+    {
+      "id": 1,
+      "title": "Medical AI System",
+      "description": "Developed a specialized AI system for medical diagnostics with Colon Cancer Classification",
+      "year": "2024"
+    },
+    {
+      "id": 2,
+      "title": "8+ Mobile Applications",
+      "description": "Successfully delivered over 8 cross-platform mobile applications to various clients",
+      "year": "2020-2025"
+    },
+    {
+      "id": 3,
+      "title": "Early Programming Start",
+      "description": "Started programming at age 15, demonstrating long-term passion and commitment to software development",
+      "year": "Since Age 15"
+    }
+  ],
+  
+  "additional_sections": {
+    "languages": [
+      {
+        "name": "Arabic",
+        "proficiency": "Native"
+      },
+      {
+        "name": "English",
+        "proficiency": "Fluent"
+      }
+    ],
+    "interests": [
+      "Artificial Intelligence Research",
+      "Open Source Contributions",
+      "Mobile App Architecture",
+      "Real-time Systems",
+      "Game Development with Flame Engine"
+    ],
+    "soft_skills": [
+      "Problem Solving",
+      "Project Management",
+      "Client Communication",
+      "Team Leadership",
+      "Agile Development"
+    ]
+  }
+}

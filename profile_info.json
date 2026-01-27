@@ -1,0 +1,14 @@
+{
+  "name": "Si1ver Surfer",
+  "title": "SOFTWARE ENGINEER",
+  "summary": "Software Engineer and AI Specialist with a strong foundation in Flutter, Node.js, and Go. Programming since age 15, I have delivered 8+ cross-platform mobile applications and a specialized AI system for medical diagnostics. Expert in building scalable, user-centric architectures using Clean Architecture, GetX, and BLOC.",
+  "languages": ["Dart", "Python", "Node.js", "Go (Golang)", "C#", "Java"],
+  "mobile_frontend": ["Flutter (GetX, BLOC, Cubit)", "Native Android (Java)", "ReactJS"],
+  "backend_apis": ["Flask", "Node.js", "Go", "RESTful APIs", "Firebase", "Odoo Integration"],
+  "ai_ml": ["PyTorch", "AI Model Deployment (Colon Cancer Classification)"],
+  "tools_platforms": ["Docker", "Git", "Postman", "firebase", "Real-time Systems", "Flame Engine"],
+  "images": {
+    "profile_picture": "",
+    "animation_image": "https://github.com/Si1verSurfer/my_port_images_db/blob/main/projects/my_images/IMG_9960.JPG"
+  }
+}
