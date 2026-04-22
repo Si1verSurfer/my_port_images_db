@@ -8,7 +8,7 @@
   "ai_ml": ["PyTorch", "AI Model Deployment (Colon Cancer Classification)"],
   "tools_platforms": ["Docker", "Git", "Postman", "firebase", "Real-time Systems", "Flame Games Engine"],
   "images": {
-    "profile_picture": "https://github.com/Si1verSurfer/my_port_images_db/blob/main/projects/my_images/IMG_9374%202.JPG",
-    "animation_image": "https://github.com/Si1verSurfer/my_port_images_db/blob/main/projects/my_images/IMG_9960.JPG"
+    "profile_picture": "https://raw.githubusercontent.com/Si1verSurfer/my_port_images_db/main/projects/my_images/IMG_9374%202.JPG",
+    "animation_image": "https://raw.githubusercontent.com/Si1verSurfer/my_port_images_db/main/projects/my_images/IMG_9960.JPG"
   }
 }
